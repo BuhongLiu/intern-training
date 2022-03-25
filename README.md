@@ -6,4 +6,4 @@ As a practice, please
 4. create a new branch
 5. add a txt file to your branch, you should put your name and email in the txt file
 6. push it to your remote repo with commit message "intern-training"
-7. make a pull request (right-left): this is the base repo and main is the base branch and your forked repo and the branch you created is the one to be merged.
+7. make a pull request (left-up): this is the base repo and main is the base branch and your forked repo and the branch you created is the one to be merged.
